@@ -186,6 +186,7 @@ header .navbar a:hover{
 }
 
 .speciality .box-container .box .image{
+    transition: all .5s;
     height: 100%;
     width: 100%;
     object-fit: cover;
